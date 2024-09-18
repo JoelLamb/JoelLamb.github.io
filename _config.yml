@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Joel Lamb"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD candidate in economics at the University of Exeter"
-  location         : "Office Location"
-  email            : "jl828@exeter.ac.uk"
+  bio              :  "PhD candidate in economics at the University of Exeter"
+  location         :  "Office Location"
+  email            :  "jl828@exeter.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
