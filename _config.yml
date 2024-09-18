@@ -113,21 +113,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "PhD candidate in economics at the University of Exeter"
+  location         : "Office Location"
+  email            : "jl828@exeter.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:jl828@exeter.ac.uk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://x.com/JoelLamb_"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
