@@ -11,7 +11,7 @@ I am a third-year PhD candidate at the University of Exeter. My supervisors are 
 
 My research interests lie in **Political Economy** and **Behavioural Economics**.
 
-You can contact me at: jl828@exeter.ac.uk  
+You can contact me at: J.Lamb3@exeter.ac.uk   
 
 ## **Working Papers**
 
