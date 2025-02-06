@@ -22,9 +22,9 @@ repository               : "JoelLamb/JoelLamb.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Joel Lamb"
+  name             : # "Joel Lamb"
   pronouns         : # "he/him"
-  bio              : "PhD Candidate at the University of Exeter"
+  bio              : # "PhD Candidate at the University of Exeter"
   location         : # ""
   employer         : #"University of Exeter"
   uri              : # URL

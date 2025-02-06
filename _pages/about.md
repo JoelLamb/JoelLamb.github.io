@@ -23,6 +23,13 @@ You can contact me at: jl828@exeter.ac.uk
 <br>
 
 
+- **Strategy of the Commons: Causal Evidence from a Lottery in Parliament** – with C. Powell  
+  <details>
+    <summary><em>Abstract</em></summary>
+    We exploit a natural experiment in the UK House of Commons, where MPs submit their names to a ballot to win the opportunity to present and likely debate a bill of their choosing. We assess whether this randomly allocated opportunity leads to better career outcomes for the selected MPs and explore how MPs might exploit winning the Ballot to progress their careers. We find that MPs that win the ballot are 10.7 percentage points (71%) more likely to hold high-ranking jobs 5 years after the ballot, compared to MPs that submitted to the ballot but lost. Using their position in the ballot as an instrument, we provide causal evidence that this is not driven by ballot winners successfully converting bills into laws. Motivated by a simple model of political capital, we analyze the content of the bills using Natural Language Processing methods. We find suggestive evidence that MPs presenting bills less similar to their previous speeches in Parliament are more likely to be young and, conditional on age, are more likely to have a government or opposition job five years later.
+  </details>
+<br>
+
 - **Closing the Gender Gap in Re-Applications for Senior Roles** – with I. Bohnet, H.-Y. Chai, O. Hauser, and K. Louw _(Reject & Resubmit at Management Science)_  
   <details>
     <summary><em>Abstract</em></summary>
@@ -31,17 +38,11 @@ You can contact me at: jl828@exeter.ac.uk
 <br>
 
 
-- **Strategy of the Commons: Causal Evidence from a Lottery in Parliament** – with C. Powell  
-  <details>
-    <summary><em>Abstract</em></summary>
-    We exploit a natural experiment in the UK House of Commons, where MPs submit their names to a ballot to win the opportunity to present and likely debate a bill of their choosing. We assess whether this randomly allocated opportunity leads to better career outcomes for the selected MPs and explore how MPs might exploit winning the Ballot to progress their careers. We find that MPs that win the ballot are 10.7 percentage points (71%) more likely to hold high-ranking jobs 5 years after the ballot, compared to MPs that submitted to the ballot but lost. Using their position in the ballot as an instrument, we provide causal evidence that this is not driven by ballot winners successfully converting bills into laws. Motivated by a simple model of political capital, we analyze the content of the bills using Natural Language Processing methods. We find suggestive evidence that MPs presenting bills less similar to their previous speeches in Parliament are more likely to be young and, conditional on age, are more likely to have a government or opposition job five years later.
-  </details>
-<br>
 
 ## **Works in Progress**  
 
-**Environmental Beliefs and Effort Between Age Groups** – with H. Fornwagner and O. Hauser  
+- **Environmental Beliefs and Effort Between Generations** – with H. Fornwagner and O. Hauser  
 
-**Stereotypes and Effort Provision in Teams** – with A. McCrea and R. Tariq  
+- **Stereotypes and Effort Provision in Teams** – with A. McCrea and R. Tariq  
 
-**Giving More Together** – with B. Grodeck and O. Hauser
+- **Giving More Together** – with B. Grodeck and O. Hauser
