@@ -23,7 +23,7 @@ You can contact me at: J.Lamb3@exeter.ac.uk
 <br>
 
 
-- **Strategy of the Commons: Causal Evidence from a Lottery in Parliament** – with C. Powell  
+- **Strategy of the Commons: Causal Evidence from a Lottery in Parliament** – with [C. Powell](https://sites.google.com/view/connor-powell/home)
   <details>
     <summary><em>Abstract</em></summary>
     We exploit a natural experiment in the UK House of Commons, where MPs submit their names to a ballot to win the opportunity to present and likely debate a bill of their choosing. We assess whether this randomly allocated opportunity leads to better career outcomes for the selected MPs and explore how MPs might exploit winning the Ballot to progress their careers. We find that MPs that win the ballot are 10.7 percentage points (71%) more likely to hold high-ranking jobs 5 years after the ballot, compared to MPs that submitted to the ballot but lost. Using their position in the ballot as an instrument, we provide causal evidence that this is not driven by ballot winners successfully converting bills into laws. Motivated by a simple model of political capital, we analyze the content of the bills using Natural Language Processing methods. We find suggestive evidence that MPs presenting bills less similar to their previous speeches in Parliament are more likely to be young and, conditional on age, are more likely to have a government or opposition job five years later.
