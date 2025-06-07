@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD candidate at the University of Exeter. My supervisors are [Oliver Hauser](https://www.oliverhauser.org/) and [Daniele Rinaldo](https://danielerinaldo.com/). Starting in September 2025, I will spend a year at the Aix-Marseille School of Economics (AMSE).
+I am a third-year PhD candidate at the University of Exeter. My supervisors are [Oliver Hauser](https://www.oliverhauser.org/) and [Daniele Rinaldo](https://danielerinaldo.com/). Starting in September 2025, I will spend a year at Aix-Marseille School of Economics (AMSE).
 
 My research interests lie in **Political Economy** and **Behavioural Economics**.
 
