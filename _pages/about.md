@@ -15,10 +15,10 @@ You can contact me at: J.Lamb3@exeter.ac.uk
 
 ## **Working Papers**
 
-- **Media Misinformation and Childhood Vaccination** – with O. Hauser and D. Rinaldo  
+- **Closing the Gender Gap in Re-Applications for Senior Roles** – with I. Bohnet, H.-Y. Chai, O. Hauser, and K. Louw _(Reject & Resubmit at Management Science)_  
   <details>
     <summary><em>Abstract</em></summary>
-    In 1998, The Lancet published an article that erroneously linked the Measles, Mumps, and Rubella (MMR) vaccine to autism. A media scare questioning the safety of the MMR vaccine followed. To analyze the effects of exposure to different reporting during this scare, we exploit exogenous variation in newspaper readership caused by the boycott of The Sun (England’s most widely read newspaper) in Liverpool. Using difference-in-differences and synthetic methods, we find that MMR vaccination rates fell 20% less in Liverpool compared to similar health authorities after the media scare. To analyze the reporting of newspapers around the time of the scare, we train word-embedding models on a corpus of newspaper articles. When compared to the most widely read newspaper in Liverpool after the boycott, The Sun’s reporting was more likely to drive fears about the vaccine, even when fraud surrounding the original Lancet paper became a major news story. In line with the natural language processing analysis, the differences in vaccination rates are largest for cohorts of children due to be vaccinated just after major events in the MMR scandal. 
+    We study the effects of behaviorally-informed interventions to close the gender gap in re-application rates to senior roles. We randomized 1,386 female and male applicants (“finalists”) who were recently rejected in the final assessment round for a senior role into three conditions: Control, Confidence, and Confidence+Commitment, providing finalists with confidence-boosting information and—for female finalists—indicating the organization’s commitment to increasing gender diversity. Both treatments closed the gender gap in re-application rates. However, the treatments differed in how they achieve this: in the Confidence+Commitment condition, women significantly increased their application rates by nearly 30% (10.9 percentage points), while in the Confidence condition, the gender gap closed because men’s re-application rates were lower. Our results inform future research on interventions to reduce gender gaps and offer a practical solution for organizations aiming to achieve gender parity in leadership.
   </details>
 <br>
 
@@ -30,12 +30,15 @@ You can contact me at: J.Lamb3@exeter.ac.uk
   </details>
 <br>
 
-- **Closing the Gender Gap in Re-Applications for Senior Roles** – with I. Bohnet, H.-Y. Chai, O. Hauser, and K. Louw _(Reject & Resubmit at Management Science)_  
+
+
+- **Media Misinformation and Childhood Vaccination** – with O. Hauser and D. Rinaldo  
   <details>
     <summary><em>Abstract</em></summary>
-    We study the effects of behaviorally-informed interventions to close the gender gap in re-application rates to senior roles. We randomized 1,386 female and male applicants (“finalists”) who were recently rejected in the final assessment round for a senior role into three conditions: Control, Confidence, and Confidence+Commitment, providing finalists with confidence-boosting information and—for female finalists—indicating the organization’s commitment to increasing gender diversity. Both treatments closed the gender gap in re-application rates. However, the treatments differed in how they achieve this: in the Confidence+Commitment condition, women significantly increased their application rates by nearly 30% (10.9 percentage points), while in the Confidence condition, the gender gap closed because men’s re-application rates were lower. Our results inform future research on interventions to reduce gender gaps and offer a practical solution for organizations aiming to achieve gender parity in leadership.
+    In 1998, The Lancet published an article that erroneously linked the Measles, Mumps, and Rubella (MMR) vaccine to autism. A media scare questioning the safety of the MMR vaccine followed. To analyze the effects of exposure to different reporting during this scare, we exploit exogenous variation in newspaper readership caused by the boycott of The Sun (England’s most widely read newspaper) in Liverpool. Using difference-in-differences and synthetic methods, we find that MMR vaccination rates fell 20% less in Liverpool compared to similar health authorities after the media scare. To analyze the reporting of newspapers around the time of the scare, we train word-embedding models on a corpus of newspaper articles. When compared to the most widely read newspaper in Liverpool after the boycott, The Sun’s reporting was more likely to drive fears about the vaccine, even when fraud surrounding the original Lancet paper became a major news story. In line with the natural language processing analysis, the differences in vaccination rates are largest for cohorts of children due to be vaccinated just after major events in the MMR scandal. 
   </details>
 <br>
+
 
 
 
