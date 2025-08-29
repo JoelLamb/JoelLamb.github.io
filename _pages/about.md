@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the University of Exeter. **I will be on the 2025-26 job market.**
+I am a PhD candidate at the University of Exeter. Starting in September 2025, I will spend a year at the Aix-Marseille School of Economics (AMSE) as a recipient of their 4th-year fellowship.
 
 My research interests lie in **Political Economy** and **Behavioural Economics**. In my research I use (natural) experiments and text-as-data.
+
+**I will be on the 2025-26 job market.**
+
 
 You can contact me at: J.Lamb3@exeter.ac.uk    
 
