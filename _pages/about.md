@@ -18,7 +18,7 @@ You can contact me at: J.Lamb3@exeter.ac.uk
 
 ## **Job Market Paper**
 
-- [**Strategy of the Commons: Causal Evidence from a Lottery in Parliament**](/files/Lamb_JMP.pdf) – with [Connor Powell](https://sites.google.com/view/connor-powell/home)  
+- [**Strategy of the Commons: Causal Evidence from a Lottery in Parliament**](/files/Lamb_JMP_30_09_25.pdf) – with [Connor Powell](https://sites.google.com/view/connor-powell/home)  
   _Abstract:_ How do politicians secure top government positions? We exploit a natural experiment in the UK House of Commons, where politicians enter a lottery to win the opportunity to introduce legislation of their choosing. First, we verify that winning this lottery improves career outcomes, leading to a 65% (12 percentage point) increase in ministerial appointments five years after treatment. Next, we introduce a model of political capital that yields predictions about the legislation proposed by politicians. To verify predictions from our model, we use Natural Language Processing techniques to analyse the content of the bills presented by ballot winners. We provide evidence that politicians who strategically use this opportunity to push party objectives see a larger boost to their careers.
 
 ## **Working Papers**
