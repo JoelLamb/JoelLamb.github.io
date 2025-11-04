@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="{{ site.baseurl }}/files/CV.pdf" type="application/pdf" width="100%" height="100px">
-  <p>Can't see CV? <a href="{{ site.baseurl }}/files/CV.pdf">Download it here</a>.</p>
+<object data="{{ site.baseurl }}/files/CV1.pdf" type="application/pdf" width="100%" height="100px">
+  <p>Can't see CV? <a href="{{ site.baseurl }}/files/CV1.pdf">Download it here</a>.</p>
 </object>
