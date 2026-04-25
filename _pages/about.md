@@ -14,7 +14,7 @@ My research interests lie in **Political Economy** and **Behavioural Economics**
 **I am on the 2025-26 job market.**
 
 
-You can contact me at: J.Lamb3@exeter.ac.uk    
+You can contact me at: jl828@exeter.ac.uk    
 
 ## **Job Market Paper**
 
